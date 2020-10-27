@@ -1,0 +1,20 @@
+{
+    "Author": "Korukonda Raghuram",
+    "ContentSize": 4484,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-arm-vm-snapshot/master/CreateSnapshotAzureIaaSVM.ps1",
+    "DownloadCount": 2252,
+    "Id": "Azure-ARM-VM-Snapshot-3292a891",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 329,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-12-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script is for creating Blob Snapshots for all Azure IaaS VMs(includes root volume and Data volumes) for Azure Resource Manager VM(un-managed disk).",
+    "Title": "Azure ARM VM Snapshot",
+    "UpdatedDate": "2017-10-20T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-arm-vm-snapshot",
+    "UserTags": "Microsoft Azure, snapshot, Snapshots"
+}
